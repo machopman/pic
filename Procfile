@@ -1,0 +1,1 @@
+web: gunicorn picture:app --log-file=-
